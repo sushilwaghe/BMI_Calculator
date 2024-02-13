@@ -1,0 +1,44 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkcyan;
+}
+#height{
+  padding: 5px;
+  outline: none;
+}
+#weight{
+  padding: 5px;
+  outline: none;
+
+}
+label{
+  font-size: 20px;
+  font-weight: 600;
+}
+.btn{
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: blueviolet;
+  color: #fff;
+}
+.guide{
+  font-size: 20px;
+  font-weight: 700;
+}
+#under{
+  color: yellow;
+}
+#normal{
+  color: green;
+}
+#over{
+  color: rgb(147, 6, 6);
+}
+.btn-box{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
